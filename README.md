@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m @Xinyu302
+- 👀 I’m interested in AI compiler and runtime system.
+- 🌱 I am currently a graduate student at Beihang University, and my research direction is high performance computing.
+- 📫 How to reach me: [summerhh54@gmail.com](mailto:summerhh54@gmail.com)
 
 <!--
 **Xinyu302/Xinyu302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
