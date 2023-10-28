@@ -3,6 +3,8 @@
 - 🌱 I am currently a graduate student at Beihang University, and my research direction is high performance computing.
 - 📫 How to reach me: [summerhh54@gmail.com](mailto:summerhh54@gmail.com)
 
+- [![Anurag's GitHub stats](https://github-readme-stats-mu-two-58.vercel.app/api?username=Xinyu302&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Xinyu302/Xinyu302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
